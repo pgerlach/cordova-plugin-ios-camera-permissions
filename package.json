@@ -1,17 +1,17 @@
 {
-  "name": "cordova-plugin-ios-camera-permissions",
-  "version": "1.2.0",
+  "name": "cordova-plugin-ios-photolibrary-readwrite-permissions",
+  "version": "1.0.0",
   "author": "Andreas Jacob <andreas@cordobo.de> (http://cordobo.com/)",
-  "description": "Cordova / PhoneGap Plugin Permission Settings for NSCameraUsageDescription, NSPhotoLibraryUsageDescription, NSPhotoLibraryAddUsageDescription and NSMicrophoneUsageDescription in iOS 11 by adding a declaration to the Info.plist file",
+  "description": "Cordova / PhoneGap Plugin Permission Settings for NSPhotoLibraryUsageDescription in iOS 11 by adding a declaration to the Info.plist file",
   "cordova": {
-    "id": "cordova-plugin-ios-camera-permissions",
+    "id": "cordova-plugin-ios-photolibrary-readwrite-permissions",
     "platforms": [
       "ios"
     ]
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cordobo/cordova-plugin-ios-camera-permissions.git"
+    "url": "git+https://github.com/pgerlach/cordova-plugin-ios-photolibrary-readwrite-permissions.git"
   },
   "keywords": [
     "cordova",
@@ -21,10 +21,7 @@
     "app",
     "security",
     "permissions",
-    "nscamerausagedescription",
-    "nsphotolibraryaddusagedescription",
     "nsphotolibraryusagedescription",
-    "nsmicrophoneusagedescription",
     "ecosystem:cordova",
     "cordova-ios"
   ],
@@ -36,7 +33,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cordobo/cordova-plugin-ios-camera-permissions/issues"
+    "url": "https://github.com/pgerlach/cordova-plugin-ios-photolibrary-readwrite-permissions/issues"
   },
-  "homepage": "https://github.com/cordobo/cordova-plugin-ios-camera-permissions#readme"
+  "homepage": "https://github.com/cordobo/cordova-plugin-ios-photolibrary-readwrite-permissions#readme"
 }
